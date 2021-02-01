@@ -19,3 +19,6 @@ Text
 :shipit:
 :smile:
 
+- [x] Zhenya
+- [ ] Shevchenko
+- [ ] Address
