@@ -1,8 +1,2 @@
 # Odoo Apps
-
-
-В вкладке *"№ Релиза"*, добалены такие кнопки как:
-Обновить модуль;
- ! [image info](https://github.com/zhenya51600/test/blob/main/2021-02-02_16-27.png)
- Дэинсталировать (удалить) модуль;
- 
+![image info](https://github.com/zhenya51600/test/blob/main/2021-02-02_16-27.png)
