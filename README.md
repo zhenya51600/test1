@@ -5,3 +5,6 @@
 
 ![image info](https://github.com/zhenya51600/test/blob/main/2021-02-02_16-27.png)
 
+Также.  в выбраном модуле, можно выбрать действие, для этого надо нажать на модуль -> "Действие", и выбрать что нужно с ним сделать. 
+
+![image info](https://github.com/zhenya51600/test/blob/main/2021-02-02_17-08.png)
