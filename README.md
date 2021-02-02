@@ -1,32 +1,8 @@
-<h1>test</h1>
-
-<h2 align="center" style="color:Red">Test</h2>
-
-<p align="justify">
-Markdown is a way to style text on the web. You control the display of the document.
-Разметка Markdown обычно используется при создании документации (лицензий программ, историй версий, примечаний к релизам, пользовательских инструкций и т.д.), позволяя преобразовывать текст в XHTML для дальнейшей публикации в различных форматах, таких как Rich Text, HTML и других. Файлы MD могут быть открыты во многих текстовых редакторах, например, Notepad++.
-
-`паоалввлвлла`
-
-|Name|Email|Address|
-|----|-----|-------|
-|Zhenya|Shevchenko|Address|
-|Pram|param|param|
-
-Text
----
----
-:shipit:
-:smile:
-
-- [x] Zhenya
-- [ ] Shevchenko
-- [ ] Address
-
-**R**
+# Odoo Apps
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Module
-[module]: https://odoo14.simbioz.ml/web#action=818&model=repair.order&view_type=list&cids=&menu_id=618
-
+В вкладке *"№ Релиза"*, добалены такие кнопки как:
+ * Обновить модуль;
+ file:///home/zhenya/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/2021-02-02_16-27.png
+ * Дэинсталировать (удалить) модуль;
+ 
